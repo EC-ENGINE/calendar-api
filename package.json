@@ -2,5 +2,11 @@
   "name": "calendar-api",
   "version": "1.0.0",
   "scripts": {},
-  "dependencies": {}
+  "dependencies": {
+    "@supabase/supabase-js": "^2.76.1",
+    "next": "^16.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.1"
+  }
 }
